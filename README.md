@@ -1,6 +1,6 @@
 # Math Garden Overview
 
-MathGarden is a simple game which requires the user to enter a number by drawing on a canvas.  The drawing is then processed by a trained TensorFlow model which returns the digit entered, or a message if the image painted on the canvas was not recognized.  The web application can be found here:  https://sqlbipro.github.io/math-garden/
+MathGarden is a simple game which requires the user to enter a number by drawing on a canvas.  The drawing is then processed by a trained TensorFlow model which returns the digit entered, or a message if the image painted on the canvas was not recognized or was incorrect.  The web application can be found here:  https://sqlbipro.github.io/math-garden/
 
 An image of the TensorFlow graph with the first layer expanded, as well as some performance statistics for the model, from TensorBoard, follows.  The model is a straightforward Multi Layer Perceptron Neural Network using data from the famous MNIST image dataset (https://en.wikipedia.org/wiki/MNIST_database)
 
