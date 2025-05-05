@@ -1,4 +1,4 @@
-# philipp-math-garden initially forked from theMuellenator in order to check local work/diffs
+# math-garden initially forked from theMuellenator in order to check local work/diffs
 
 MathGarden is a simple game which requires the user to enter a number by drawing on a canvas.  The drawing is then processed by a trained TensorFlow model which returns the digit entered, or a message if the image painted on the canvas was not recognized.  The web application can be found here:  https://sqlbipro.github.io/math-garden/
 
